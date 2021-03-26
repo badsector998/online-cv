@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -59,95 +59,72 @@ education:
       university: SMA Negeri 2 Kuningan
       time: 2013 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Highschool
     - degree: BSc in Informatics Engineering
       university: UPN "Veteran" Yogyakarta
       time: 2016 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        For 5 years of study in the Faculty. I was more drawn in robotics workshop. I have done some projects along the way.
+        Actually on the curiculum itself i learned many things about computer related knowledge for example Networking, AI,
+        Cloud Technologies, Web Development, Mobile Development, Operating System and many more.
+        
 experiences:
     - role: Guide and Buddy
       time: 28 March - 12 April 2018
       company: Singapore Polytechnic
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Learning express program is a program which is required to be taken by every freshman student in Singapore Polytechnic(SP). 
+        The program itself is like a social program and the participants of this program are sent to various city across Asia then they are placed on some kind of village and then they need to enhance the village's potential. 
+        And that was the time when one of the team from Singapore polytechnic came to Indonesia and was doing their program. 
+        they needed some assistance to communicate with locals since Singaporean does little know how to speak in Malay or even Indonesian language, so we from UPN "Veteran" Yogyakarta was called by SP to help their students doing 
+        their work and then from UPN opened some recruitment for this job and i applied then got accepted on the job. This is some kind of volunteer work also, because we were helping SP students doing their work, 
+        not only as a guide i was there to help them brainstorming too, looking for some solution or some enhancements that can be applied for the village and locals there. 
+        And this work only took 2 weeks including leisure activity.
           - Bullet point
           - Bullet point
     - role: Student Exchange Participant
       time: 1 Desember 2019 - 29 February 2020
       company: Eszterhazy Karoly University, Hungary
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Student exchange programme between 2 private parties of universities. The program's duration was 3 months. 
+        Consist of making a short research and present about it in an international conference held by the Eszterházy Károly University.
           - Bullet point
           - Bullet point
     - role: Workshop Assistant
       time: March 2019
       company: AMX UAV Yogyakarta
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        The owner of the company was my mentor on my UAV study. He had this workshop for indoensian Ministry of Agriculture
+        and Ministry of Suburban Area. He needed help on that workshop so i was called to help him. The duration was only 3 days.
+        And i was charged to do things for the preparations and help him to teach people as well.
           - Bullet point
           - Bullet point
 projects:
     title: Multicopter Drone Flight Controller
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This was part of a class assignment. The class was Robotics class. There were two people took part on this project.
+      I was charged on Electrical Part.
     assignments:
-      - title: Velocity
+      - title: Arduino
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: MPU6050
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Autodesk Eagle
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Soldering
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+       From the Experience when i had Student Exchange Program. The program required me to do a simple research. The research was as follows
     papers:
       - title: Mathematical Modelling for Computer Science Student
         link: "#"
