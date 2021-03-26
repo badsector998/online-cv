@@ -100,24 +100,23 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Multicopter Drone Flight Controller
+    title: Projects Portofolio
     intro: >
-      This was part of a class assignment. The class was Robotics class. There were two people took part on this project.
-      I was charged on Electrical Part.
+      As this far 5 years of my study duration i have made the following projects
     assignments:
-      - title: Arduino
+      - title: Multirotor Drone Flight Controller
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: MPU6050
+      - title: Self Balancing Robot
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Autodesk Eagle
+      - title: Fixed Wing Drone
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Soldering
+      - title: RC4 Cryptography Library on PHP
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
