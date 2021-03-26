@@ -56,7 +56,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: Highschool
-      university: SMA Negeri 2 Kuningan
+      school: SMA Negeri 2 Kuningan
       time: 2013 - 2016
       details: |
         Highschool
@@ -67,6 +67,21 @@ education:
         For 5 years of study in the Faculty. I was more drawn in robotics workshop. I have done some projects along the way.
         Actually on the curiculum itself i learned many things about computer related knowledge for example Networking, AI,
         Cloud Technologies, Web Development, Mobile Development, Operating System and many more.
+        
+    - degree: Diploma
+      institution: Unigama
+      time: April 2018
+      details: |
+        This was a course i joined. The class itself was Microcontroller Programming. I was taught how to program Arduino and other Microcontroller as well. But most
+        of the curiculum only cover the basics.
+        
+    - degree: Diploma
+      institution: Unigama
+      time: May 2019
+      details: |
+        The next year after i learned to program microcontroller i joined another class, it was Electronic Engineering class. This was also the same as programming microcontroller.
+        Most of the curiculum only cover the basic of Electrical Engineering. For example, basic electical physics, basic electronical part, designing PCB, soldering and troubleshooting.
+       
         
 experiences:
     - role: Guide and Buddy
@@ -80,16 +95,14 @@ experiences:
         their work and then from UPN opened some recruitment for this job and i applied then got accepted on the job. This is some kind of volunteer work also, because we were helping SP students doing their work, 
         not only as a guide i was there to help them brainstorming too, looking for some solution or some enhancements that can be applied for the village and locals there. 
         And this work only took 2 weeks including leisure activity.
-          - Bullet point
-          - Bullet point
+
     - role: Student Exchange Participant
       time: 1 Desember 2019 - 29 February 2020
       company: Eszterhazy Karoly University, Hungary
       details: |
         Student exchange programme between 2 private parties of universities. The program's duration was 3 months. 
         Consist of making a short research and present about it in an international conference held by the Eszterházy Károly University.
-          - Bullet point
-          - Bullet point
+
     - role: Workshop Assistant
       time: March 2019
       company: AMX UAV Yogyakarta
@@ -97,16 +110,35 @@ experiences:
         The owner of the company was my mentor on my UAV study. He had this workshop for indoensian Ministry of Agriculture
         and Ministry of Suburban Area. He needed help on that workshop so i was called to help him. The duration was only 3 days.
         And i was charged to do things for the preparations and help him to teach people as well.
-          - Bullet point
-          - Bullet point
+
+    - role: Ground Control Station
+      time: October 2019
+      company: Robotic Lab at UPN Veteran Yogyakarta
+      details: |
+        This role was took upon when there was a national drone competition held by indonesian Ministry of High Education and Research. The competition
+        I participated was Fixed Wing division. I was charged for maintaining Electronical Components of the drone and send command on the fly from the ground as 
+        the drone oprates in the air. The competition was held in Pasuruan, Eastern java.
+     
+    - role: Ground Control Station
+      time: October 2020
+      company: Robotic Lab at UPN Veteran Yogyakarta
+      details: |
+        This role was took upon when there was a national drone competition held by indonesian Ministry of Education. The competition
+        I participated was Multirotor division. I was charged for maintaining Electronical Components of the drone and send command on the fly from the ground as 
+        the drone oprates in the air also on this particular competition i also charged to conduct research of how the drone could fly automatedly indoor.
+        The competition was held online due to the pandemic.
+
+
 projects:
     title: Projects Portofolio
     intro: >
-      As this far 5 years of my study duration i have made the following projects
+      On the past years of my study duration i have made the following projects
     assignments:
       - title: Multirotor Drone Flight Controller
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "This project was meant for Multirotor Drone especially Quadcopter. The project consist of building the body, installing electronical instruments, soldering
+        and code the sensors. I was charged on MPU6050 sensor. This sensor was utilized for sensing the angular motion of the drone. 
+        This project originaly was a robotic class assignment but the lecturer pushed this into robotic lab project."
 
       - title: Self Balancing Robot
         link: "#"
